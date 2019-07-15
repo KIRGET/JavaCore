@@ -1,3 +1,9 @@
+
+/*
+Это простая программа на Java .
+Присвоить исходному файлу имя "Example . java"
+ */
+
 package main;
 
 public class Main {
