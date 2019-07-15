@@ -1,7 +1,7 @@
-package main;
+package Example;
 
-public class example {
+public class Example {
     public static void main(String[] args) {
-        System.out.println("Java");
+        System.out.println("Это Простая программа на Java");
     }
 }
