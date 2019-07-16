@@ -19,8 +19,8 @@ public class light {
 
         distance = lightspeed * second; // вычислить расстояние
 
-        System.out.print("За дней " + days);
-        System.out.println(" Дней свет пройдет около ");
+        System.out.print("За " + days);
+        System.out.print(" Дней свет пройдет около ");
         System.out.println(distance + " Миль");
 
     }
