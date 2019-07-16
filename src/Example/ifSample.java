@@ -8,7 +8,7 @@ package Example;
 
 public class ifSample {
     public static void main(String[] args) {
-        int x,y;
+        int x, y;
 
         x=10;
         y=20;
