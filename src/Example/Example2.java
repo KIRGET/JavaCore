@@ -1,4 +1,4 @@
-package Example2;
+package Example;
 
 /*
 Это еще один короткий пример программы .
@@ -12,7 +12,7 @@ public class Example2 {
         num = 100;   // в этой строке кода переменной num
                      //присваивается значение 100
 
-        System.out.println("Это переменная num:"+num);
+        System.out.println("Это переменная num:" + num);
 
         num = num * 2;
 
