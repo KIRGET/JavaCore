@@ -17,7 +17,7 @@ public class Example2 {
         num = num * 2;
 
         System.out.print("Знaчeниe переменной num * 2 равно ");
-        System.out.println("num");
+        System.out.println(num);
 
     }
 
