@@ -1,4 +1,4 @@
-package Example;
+package com.kirget.javacore.chapter02;
 
 // Продемонстрировать срок действия переменной
 

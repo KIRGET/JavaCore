@@ -4,7 +4,7 @@
 Присвоить исходному файлу имя "Example . java"
  */
 
-package Example;
+package com.kirget.javacore.chapter02;
 
 public class Example {
     public static void main(String[] args) {

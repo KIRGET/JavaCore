@@ -1,4 +1,4 @@
-package Example;
+package com.kirget.javacore.chapter02;
 
 //Вычислить расстояние , проходимое светом,
 //используя переменные типа lonq

@@ -1,4 +1,4 @@
-package Example;
+package com.kirget.javacore.chapter02;
 
 //Символьные переменные ведут себя как целочисленные значения
 
