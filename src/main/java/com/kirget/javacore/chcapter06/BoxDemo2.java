@@ -1,6 +1,11 @@
 package com.kirget.javacore.chcapter06;
 
 // В этой программе объявляются два объекта класса Вох
+class Box2{
+    double width;
+    double height;
+    double depth;
+}
 
 
 public class BoxDemo2 {
