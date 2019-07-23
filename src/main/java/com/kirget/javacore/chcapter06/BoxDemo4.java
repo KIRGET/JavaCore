@@ -17,7 +17,7 @@ public class BoxDemo4 {
     public static void main(String[] args) {
         Box4 mybox1 = new Box4();
         Box4 mybox2 = new Box4();
-        double vol;
+//        double vol;
 
         // присвоить значения переменным э кземпляра myЬox1
         mybox1.width = 10;
@@ -30,12 +30,12 @@ public class BoxDemo4 {
         mybox2.depth = 9;
 
         // получить объем первого параллелепипеда
-        vol = mybox1.volume();
-        System.out.println("Обьём равен " + vol);
+//        vol = mybox1.volume();
+        System.out.println("Обьём равен " + mybox1.volume());
 
         // получить объем второго параллелепипеда
-        vol = mybox2.volume();
-        System.out.println("Обьём равен " + vol);
+//        vol = mybox2.volume();
+        System.out.println("Обьём равен " + mybox2.volume());
 
     }
 }
