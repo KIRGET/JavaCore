@@ -1,17 +1,22 @@
 package com.kirget.javacore.chcapter06;
 
-// В этой программе объявляются два объекта класса Вох
-class Box2{
+// Теперь метод volume() возвращает объем параллелепипеда
+
+class Box4 {
     double width;
     double height;
     double depth;
+
+    // рассчитать и возвратить объем
+    double volume () {
+        return width * height * depth;
+    }
 }
 
-
-public class BoxDemo2 {
+public class BoxDemo4 {
     public static void main(String[] args) {
-        Box2 mybox1 = new Box2();
-        Box2 mybox2 = new Box2();
+        Box4 mybox1 = new Box4();
+        Box4 mybox2 = new Box4();
         double vol;
 
         // присвоить значения переменным э кземпляра myЬox1
@@ -24,12 +29,12 @@ public class BoxDemo2 {
         mybox2.height = 6;
         mybox2.depth = 9;
 
-        // рассчитать объем первого параллелепипеда
-        vol = mybox1.width * mybox1.height * mybox1.depth;
+        // получить объем первого параллелепипеда
+        vol = mybox1.volume();
         System.out.println("Обьём равен " + vol);
 
-        // рассчитать объем второго параллелепипеда
-        vol = mybox2.width * mybox2.height * mybox2.depth;
+        // получить объем второго параллелепипеда
+        vol = mybox2.volume();
         System.out.println("Обьём равен " + vol);
 
     }
