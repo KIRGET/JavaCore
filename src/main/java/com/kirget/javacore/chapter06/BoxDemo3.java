@@ -1,4 +1,4 @@
-package com.kirget.javacore.chcapter06;
+package com.kirget.javacore.chapter06;
 
 // В этой программе применяется метод, введенный в класс Вох3
 

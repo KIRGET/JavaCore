@@ -1,4 +1,4 @@
-package com.kirget.javacore.chcapter06;
+package com.kirget.javacore.chapter06;
 
 // В этом классе определяется целочисленный стек, в котором
 // можно хранить до 10 целочисленных значений

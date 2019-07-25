@@ -1,4 +1,4 @@
-package com.kirget.javacore.chcapter06;
+package com.kirget.javacore.chapter06;
 /* В данном примере программы для инициализации размеров
    параллелепипеда в классе Вох применяется конструктор */
 
