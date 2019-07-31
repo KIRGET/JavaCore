@@ -1,4 +1,4 @@
-package com.kirget.javacore.chapter07;
+package com.kirget.javacore.chapter08;
 
 // Пример Наследования ( SimpleInheritance );
 
