@@ -1,4 +1,4 @@
-package com.kirget.javacore.chapter09.MyPack;
+package com.kirget.javacore.chapter09;
 
 public class TableMath {
     public static void main(String[] args) {
