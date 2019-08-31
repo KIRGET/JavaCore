@@ -1,4 +1,4 @@
-package com.kirget.javacore.SimpleCode;
+package com.kirget.javacore.SimpleCode.NewGame;
 
 import static java.lang.System.out;
 import static java.lang.System.setOut;
