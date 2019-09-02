@@ -21,6 +21,7 @@ public class TicTacToe {
             EnterPlayersMove();
             FieldCheck();
             GameZone();
+
             if(StatusGame==GameWin_X) {
                 System.out.println("'X' Выиграл");
             }
@@ -34,7 +35,7 @@ public class TicTacToe {
 
 
         }
-        while (StatusGame == GameOver);
+        while (StatusGame==GameOver);
 
     }
 
@@ -93,7 +94,7 @@ public class TicTacToe {
     public static boolean FilledOut() {
         for(int col=0; col<COLLUMN; col++) {
             for(int row=0; row<ROW; row++) {
-                if(FieldGame[col] [row] == EMTY) {
+                if(FieldGame[col][row]==EMTY) {
                     return false;
                 }
             }
